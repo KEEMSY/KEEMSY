@@ -2,7 +2,7 @@
   <p>
   <a href="hhttps://sykeem.tistory.com/category/TIL" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:ahr03003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ahr03003@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/%ED%9B%88%ED%9D%AC-%EA%B9%80//" target="_blank"><img src="https://img.shields.io/badge/KEEMSY-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/%EC%84%B1%EC%97%B0-%EA%B9%80-60a09a22a///" target="_blank"><img src="https://img.shields.io/badge/KEEMSY-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   
 </p>
 <p>
