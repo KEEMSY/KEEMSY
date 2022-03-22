@@ -6,9 +6,9 @@
   
 </p>
 <p>
-  Hello I am a new developer specializing in machine learning.<br/>
-  We are working on it based on Python DJango.<br/><br/>
-  I enjoy weight training, listening music and watching movies. <br/>
+  Hello I am a new developer specializing in Web Backend.<br/>
+  I am working on it based on Python DJango.<br/><br/>
+  I enjoy learning new thing and trying that! <br/>
   My goal is to develop services that will make life easier.. ✨ <br/><br/>
 </p>
 
