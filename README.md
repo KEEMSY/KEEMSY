@@ -8,16 +8,23 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKEEMSY%2FKEEMSY&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>                 
   
 </p>
+<h2>
+  Hi, I'm SeongYeon!👋
+</h2>
+
+<br>
+
 <p>
-  Hello I am a new developer specializing in Web Backend.<br/>
-  I am working on it based on Python DJango.<br/><br/>
-  I enjoy learning new thing and trying that! <br/>
-  My goal is to develop services that will make life easier.. ✨ <br/><br/>
+  Hello I am a developer specializing in Web Backend.<br/>
+  I am working on it based on Python, Django.<br/>
+  I love code because, I think there is an incorrect answer in the code, but there is no correct answer. <br/>
+   So, I want to talk about your thoughts on the same code with you!✨ <br/>
+  <br/>
 </p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KEEMSY&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KEEMSY&layout=compact&hide_border=true&theme=white)
   
- 
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=phzzz)](https://solved.ac/phzzz)
 
 
   
