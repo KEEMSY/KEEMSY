@@ -16,16 +16,15 @@
 
 <p>
   Hello I am a developer specializing in Web Backend.<br/>
-  I am working on it based on Python, Django.<br/>
-  I love code because, I think there is an incorrect answer in the code, but there is no correct answer. <br/>
-   So, I want to talk about your thoughts on the same code with you!✨ <br/>
+  I'm interested in readable, maintainable and scalable code. 
+  I think there is an incorrect answer in the code, but there is no correct answer. <br/>
+  So, I want to talk about your thoughts on the code with you!✨ <br/>
   <br/>
 </p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KEEMSY&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KEEMSY&layout=compact&hide_border=true&theme=white)
   
- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=phzzz)](https://solved.ac/phzzz)
-
+ 
 
   
   
