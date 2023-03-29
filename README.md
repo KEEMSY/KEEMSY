@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&text=KEEMSY)  
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&text=KEEMSY)  
 <div align=center> 
   <p>
-  <a href="https://sykeem.tistory.com/category/TIL" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="mailto:ahr03003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ahr03003@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/%EC%84%B1%EC%97%B0-%EA%B9%80-60a09a22a///" target="_blank"><img src="https://img.shields.io/badge/KEEMSY-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://sykeem.tistory.com/category/TIL" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=logo=GitHub%20Sponsors&logoColor=white&edge_flat=false"/></a>
+  <a href="mailto:ahr03003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ahr03003@gmail.com-EA4335?style=logo=Gmail&logoColor=white&edge_flat=false"/></a>
+  <a href="https://www.linkedin.com/in/%EC%84%B1%EC%97%B0-%EA%B9%80-60a09a22a///" target="_blank"><img src="https://img.shields.io/badge/KEEMSY-0A66C2?style=&logo=Linkedin&logoColor=white&edge_flat=false"/></a>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKEEMSY%2FKEEMSY&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>                 
   
 </p>
