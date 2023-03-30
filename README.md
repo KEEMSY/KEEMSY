@@ -5,22 +5,6 @@
   <a href="mailto:ahr03003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ahr03003@gmail.com-EA4335?style=logo=Gmail&logoColor=white&edge_flat=false"/></a>
   <a href="https://www.linkedin.com/in/%EC%84%B1%EC%97%B0-%EA%B9%80-60a09a22a///" target="_blank"><img src="https://img.shields.io/badge/KEEMSY-0A66C2?style=&logo=Linkedin&logoColor=white&edge_flat=false"/></a>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKEEMSY%2FKEEMSY&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>                 
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/KEEMSY/STUDY/issues/7) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
-2. ❗️ Closed issue [#31](https://github.com/KEEMSY/STUDY/issues/31) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
-3. ❗️ Closed issue [#32](https://github.com/KEEMSY/STUDY/issues/32) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
-4. ❗️ Closed issue [#35](https://github.com/KEEMSY/STUDY/issues/35) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
-5. ❗️ Closed issue [#38](https://github.com/KEEMSY/STUDY/issues/38) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
-6. ❗️ Closed issue [#44](https://github.com/KEEMSY/STUDY/issues/44) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
-7. ❗️ Closed issue [#48](https://github.com/KEEMSY/STUDY/issues/48) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
-8. 🎉 Merged PR [#96](https://github.com/KEEMSY/STUDY/pull/96) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
-9. 💪 Opened PR [#96](https://github.com/KEEMSY/STUDY/pull/96) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
-10. 🎉 Merged PR [#95](https://github.com/KEEMSY/STUDY/pull/95) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
-<!--END_SECTION:activity-->
-    
 </p>
 <h2>
   Hi, I'm SeongYeon!👋
@@ -59,6 +43,11 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-                     
+  ## :zap: Recent Activity
+  <p>
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+  </p>
 </div>
+
 </div>
