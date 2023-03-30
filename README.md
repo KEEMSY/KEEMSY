@@ -46,6 +46,11 @@
   ## :zap: Recent Activity
   <p>
   <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#7](https://github.com/KEEMSY/STUDY/issues/7) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
+2. ❗️ Closed issue [#31](https://github.com/KEEMSY/STUDY/issues/31) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
+3. ❗️ Closed issue [#32](https://github.com/KEEMSY/STUDY/issues/32) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
+4. ❗️ Closed issue [#35](https://github.com/KEEMSY/STUDY/issues/35) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
+5. ❗️ Closed issue [#38](https://github.com/KEEMSY/STUDY/issues/38) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
   <!--END_SECTION:activity-->
   </p>
 </div>
