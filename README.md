@@ -21,7 +21,7 @@
   <br>
 </p>
 
-<!--    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KEEMSY&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KEEMSY&layout=compact&hide_border=true&theme=white) -->
+   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KEEMSY&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KEEMSY&layout=compact&hide_border=true&theme=white)
   
 
 ## Platforms & Languages
@@ -42,17 +42,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
-
-  ## :zap: Recent Activity
-  <p>
-  <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/KEEMSY/STUDY/issues/7) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
-2. ❗️ Closed issue [#31](https://github.com/KEEMSY/STUDY/issues/31) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
-3. ❗️ Closed issue [#32](https://github.com/KEEMSY/STUDY/issues/32) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
-4. ❗️ Closed issue [#35](https://github.com/KEEMSY/STUDY/issues/35) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
-5. ❗️ Closed issue [#38](https://github.com/KEEMSY/STUDY/issues/38) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
-  <!--END_SECTION:activity-->
-  </p>
 </div>
 
 </div>
