@@ -9,6 +9,16 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#7](https://github.com/KEEMSY/STUDY/issues/7) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
+2. ❗️ Closed issue [#31](https://github.com/KEEMSY/STUDY/issues/31) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
+3. ❗️ Closed issue [#32](https://github.com/KEEMSY/STUDY/issues/32) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
+4. ❗️ Closed issue [#35](https://github.com/KEEMSY/STUDY/issues/35) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
+5. ❗️ Closed issue [#38](https://github.com/KEEMSY/STUDY/issues/38) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
+6. ❗️ Closed issue [#44](https://github.com/KEEMSY/STUDY/issues/44) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
+7. ❗️ Closed issue [#48](https://github.com/KEEMSY/STUDY/issues/48) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
+8. 🎉 Merged PR [#96](https://github.com/KEEMSY/STUDY/pull/96) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
+9. 💪 Opened PR [#96](https://github.com/KEEMSY/STUDY/pull/96) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
+10. 🎉 Merged PR [#95](https://github.com/KEEMSY/STUDY/pull/95) in [KEEMSY/STUDY](https://github.com/KEEMSY/STUDY)
 <!--END_SECTION:activity-->
     
 </p>
